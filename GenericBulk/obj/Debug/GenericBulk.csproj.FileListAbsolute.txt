@@ -1,0 +1,8 @@
+C:\Users\miriarte\source\repos\SolidSD.GenericBulk\GenericBulk\bin\Debug\GenericBulk.dll
+C:\Users\miriarte\source\repos\SolidSD.GenericBulk\GenericBulk\bin\Debug\GenericBulk.pdb
+C:\Users\miriarte\source\repos\SolidSD.GenericBulk\GenericBulk\bin\Debug\Dapper.dll
+C:\Users\miriarte\source\repos\SolidSD.GenericBulk\GenericBulk\bin\Debug\Dapper.xml
+C:\Users\miriarte\source\repos\SolidSD.GenericBulk\GenericBulk\obj\Debug\GenericBulk.csprojResolveAssemblyReference.cache
+C:\Users\miriarte\source\repos\SolidSD.GenericBulk\GenericBulk\obj\Debug\GenericBulk.csproj.CoreCompileInputs.cache
+C:\Users\miriarte\source\repos\SolidSD.GenericBulk\GenericBulk\obj\Debug\GenericBulk.dll
+C:\Users\miriarte\source\repos\SolidSD.GenericBulk\GenericBulk\obj\Debug\GenericBulk.pdb
